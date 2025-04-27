@@ -54,6 +54,7 @@ let person2 = {
         console.log("La persona camina.")
     }
 }
+console.log(person2)
 person2.walk()
 
 // Anidación de objetos
