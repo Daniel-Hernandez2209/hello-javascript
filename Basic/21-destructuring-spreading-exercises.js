@@ -83,7 +83,8 @@ let newobjects1 = {                                 //desestructuracion
     carro :{modelo_Carro},
     moto:{modelo_moto}}
 
-let carateristicas = {                              //propagacion de los datos en un nuevo objecto
+let carateristicas = {                       
+                                                   //propagacion de los datos en un nuevo objecto
     carateristicas_1 :{...newobjects},
     modelo : {...newobjects1}
 }
