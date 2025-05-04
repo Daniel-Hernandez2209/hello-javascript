@@ -24,14 +24,14 @@ console.info("Este es un mensaje de información adicional.")
 
 // table
 
-let data = [
-    ["Brais", 37],
-    ["Sara", 21]
-]
+// let data = [
+//     ["Brais", 37],
+//     ["Sara", 21]
+// ]
 
 console.table(data)
 
-data = [
+ let data = [
     { name: "Brais", age: 37 },
     { name: "Sara", age: 21 }
 ]
