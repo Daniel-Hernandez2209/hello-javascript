@@ -91,7 +91,7 @@ let person4 = {
     age: 37
 }
 
-console.log(person)
+//console.log(person)
 console.log(person4)
 
 console.log(person == person4)
